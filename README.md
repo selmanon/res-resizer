@@ -47,6 +47,8 @@ Usage
 
 Hint: all output can be silenced by adding the `--silence` option.
 
+For Windows users they need to install Python Imaging Library (PIL) available in this link : http://www.pythonware.com/products/pil/
+
 iOS
 ----
 `$./resizer.py -i --folder ~/MyProject/project/images/` resize all
